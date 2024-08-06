@@ -1,7 +1,7 @@
 #!/bin/bash
 
 author=xql520wrh
-# github=https://github.com/xql520wrh/v2ray.git
+# github=https://github.com/xql520wrh/v2ray
 
 # bash fonts colors
 red='\e[31m'
